@@ -107,8 +107,8 @@ Virtual-Motor-Simulation/
 ├── assets/
 │   ├── screenshots/
 │   ├── motor_photos/
-│   ├── experiment_notes/
-│   └── animations/
+│   
+│   
 └── archive/
     └── development_versions/
         ├── motor_twin_v1.py
